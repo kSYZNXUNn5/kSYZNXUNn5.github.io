@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: url(https://cdn.discordapp.com/attachments/910072744304082987/929379926522597426/g2B.gif);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 6px;
+}
+
+
+
+.place {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 200px;
+    cursor: default;
+}
+.text {
+    color: rgb(7, 0, 66);
+}

@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background: url(https://cdn.discordapp.com/attachments/910072744304082987/929379926522597426/g2B.gif);
+}
+
+.point {
+    color: red;
+    text-decoration: none;
+    cursor: default;
+}
